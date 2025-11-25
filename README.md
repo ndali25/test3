@@ -7,7 +7,7 @@ April 9, 2025
 Overview
 This document describes the replication files for What drives the recent surge in inflation? The historical decomposition roller coaster. The software used for the estimations is
 
-This code is run via MATLAB version 2022b. The codes are written so that it should be easy for readers to
+The program is MATLAB version 2022b. The codes are written so that it should be easy for readers to
 follow. The replicator should expect to let the code run for about 2 hours. A description
 of the data and the codes are given below.
 Data availability
