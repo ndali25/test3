@@ -1,18 +1,3 @@
-Below is a **clean, machine-friendly, C#-parser-friendly README** designed so a program can reliably extract:
-
-* Software version
-* Required folders
-* Execution order
-* Docker instructions
-* Script list
-* Data files
-
-I avoided long sentences, avoided ambiguous formatting, and used **strict key–value sections** with **stable tag markers** so your C# program can parse it deterministically.
-
-Feel free to adjust tag names as needed.
-
----
-
 # **PROJECT TITLE**
 
 What drives the recent surge in inflation? The historical decomposition roller coaster
