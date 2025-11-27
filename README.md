@@ -15,7 +15,7 @@ What drives the recent surge in inflation? The historical decomposition roller c
 * RUNTIME_SLOW: 48h
 
 ---
-
+Running the Project in Docker Using MATLAB Installed on the Host
 # **FOLDER_STRUCTURE**
 
 ```
